@@ -22,3 +22,4 @@ jobs:
           app_location: "/"           # App source code path
           output_location: "build"    # Built app content directory
           api_location: ""            # Optional API source code path
+          action: "upload"
